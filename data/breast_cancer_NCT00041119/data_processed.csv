@@ -1,0 +1,10 @@
+,race,post-menopause,human epidermal growth factor receptor 2 is positive,treatment,tumor laterality,estrogen receptor positive,progesterone receptor positive,cancer histologic grade,prior hormonal therapy,prior chemotherapy,biopsy type,sentinel node biospy,axillary dissection,number of positive axillary nodes,tumor size,target_label
+0,White,No,No,paclitaxel,left,Yes,Yes,Intermediate,No,No,core needle,No,No,0,2.0,0.0
+1,White,Yes,No,Cyclophosphamide and Doxorubicin,left,Yes,Yes,Intermediate,No,No,excisional,No,Yes,0,2.0,0.0
+2,Black or Asia,No,No,Cyclophosphamide and Doxorubicin,left,No,No,High,No,No,core needle,No,Yes,0,3.5,0.0
+3,White,No,No,Cyclophosphamide and Doxorubicin,right,Yes,Yes,High,No,No,core needle,No,No,0,3.5,0.0
+4,White,Yes,No,paclitaxel,left,Yes,Yes,Intermediate,No,No,core needle,Yes,Yes,1,2.0,0.0
+5,White,Yes,No,Cyclophosphamide and Doxorubicin,bilateral,Yes,Yes,Intermediate,Yes,No,core needle,No,No,0,3.5,1.0
+6,White,Yes,No,Cyclophosphamide and Doxorubicin,left,No,No,High,No,No,core needle,No,Yes,0,3.5,0.0
+7,White,No,No,Cyclophosphamide and Doxorubicin,left,No,Yes,High,Yes,No,core needle,No,No,0,2.0,0.0
+8,White,Yes,No,paclitaxel,right,No,No,Intermediate,No,No,core needle,No,Yes,0,2.0,0.0

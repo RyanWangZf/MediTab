@@ -1,0 +1,2 @@
+number of positive axillary nodes
+tumor size

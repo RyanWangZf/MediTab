@@ -1,0 +1,10 @@
+index,sentence,target_label
+0,"1. A White patient with a left-sided tumor is being treated with paclitaxel. Biopsy indicates an intermediate-grade cancer, with positive estrogen and progesterone receptors. However, there are no positive axillary nodes, and the tumor size is 2.0.
+
+2. This patient is undergoing treatment with paclitaxel for a left-sided tumor. The biopsy has confirmed that the cancer is intermediate-grade and is estrogen and progesterone receptor positive. While there are no positive axillary nodes, the tumor still measures 2.0.
+
+3. The histologic grade of this patient's cancer is intermediate, with a laterality of the left side. They are currently receiving paclitaxel as the chosen treatment, and the biopsy type utilized a core needle. The patient tested positive for estrogen and progesterone receptors, but no axillary nodes were found to be positive. Finally, the tumor size is 2.0.
+
+4. This patient's biopsy revealed an intermediate-grade, left-sided tumor. They are being treated with paclitaxel, and the tumor was sampled through a core needle. The patient is positive for both estrogen and progesterone receptors, but no axillary nodes were found to be positive. The size of the tumor is 2.0.
+
+5. A patient of the White race has been diagnosed with a left-sided tumor measuring 2.0. The cancer is intermediate-grade and has tested positive for estrogen and progesterone receptors. They are currently undergoing treatment with paclitaxel, and there are no positive axillary nodes. The biopsy was obtained using a core needle technique.",0.0
