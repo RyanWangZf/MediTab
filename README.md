@@ -1,5 +1,7 @@
 # MediTab
 
+We are published in IJCAI 2024!
+
 # TODO:
 - [x] load BioBERT and fine-tune it on the raw sentence dataset
 - [x] load GPT-3 API and generate diverse paraphrases of the raw sentences as augmentations
