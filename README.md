@@ -2,6 +2,8 @@
 
 We are published in IJCAI 2024!
 
+Publicly available data can be found in the github releases. You can extract it into the data folder
+
 # TODO:
 - [x] load BioBERT and fine-tune it on the raw sentence dataset
 - [x] load GPT-3 API and generate diverse paraphrases of the raw sentences as augmentations
